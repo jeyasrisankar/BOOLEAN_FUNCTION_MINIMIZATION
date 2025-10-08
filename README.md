@@ -50,3 +50,14 @@ Developed by: RegisterNumber:*/
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
+Result 1
+State diagram
+<img width="1920" height="1080" alt="Jeyasri E2a RTL" src="https://github.com/user-attachments/assets/93490100-8afe-4a41-8fbf-b295fcd1f486" />
+
+Clock pulse
+<img width="1920" height="1080" alt="Jeyasri E2a CP" src="https://github.com/user-attachments/assets/1583dcb1-fcad-4159-abd4-6ce757a6e4be" />
+
+
+Result 2
+
+
