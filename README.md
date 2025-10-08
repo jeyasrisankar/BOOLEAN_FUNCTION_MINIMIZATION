@@ -59,5 +59,8 @@ Clock pulse
 
 
 Result 2
+State diagram
+<img width="1920" height="1200" alt="Jeyasri E2b RTL" src="https://github.com/user-attachments/assets/228733ea-c454-4c3f-80c1-d42d980cf2bc" />
 
-
+Clock pulse
+<img width="1920" height="1200" alt="Jeyasri E2b CP" src="https://github.com/user-attachments/assets/9a565d0d-b044-4c7a-b3be-e3ec73e0a807" />
